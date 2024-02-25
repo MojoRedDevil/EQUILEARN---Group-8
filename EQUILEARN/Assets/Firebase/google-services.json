@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1011257578613",
+    "firebase_url": "https://equilearn-database-default-rtdb.firebaseio.com",
+    "project_id": "equilearn-database",
+    "storage_bucket": "equilearn-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011257578613:android:2d29b37d0b15dacc0bd43c",
+        "android_client_info": {
+          "package_name": "com.unity.template.ar_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjpOl4l04dEgrEiMx1R60jSCN9_Xa-LJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
