@@ -35,10 +35,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MyProfile.unity
     guid: c735e13dd4ed34c729ea8cd846a0bdde
+  - enabled: 1
+    path: Assets/Scenes/ARMode.unity
+    guid: e12e2f53479eb4227a34ee9de126f4b1
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 171cbc81ddf7144a8aab54c72ca78bf7,
+      type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 0465d33c6aee55f44b0237db8b0e0259,
+      type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: a141fc7d19db7438c9ceb50066135188,
+      type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 5f793beec30bf47229cfa0eac703418e, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 80fa83c66f22c49feb4dd533a9e1db3c,
       type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: c199e683398494f32b4cde18e73ab731,
       type: 2}
